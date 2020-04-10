@@ -34,4 +34,9 @@ a:link	{
 	color: #FFFFFF;
 	text-decoration: none;
 }
+
+a:visited	{
+	color: #3333FF;
+	text-decoration: none;
+}
 @media
