@@ -39,4 +39,9 @@ a:visited	{
 	color: #3333FF;
 	text-decoration: none;
 }
+
+a:hover	{
+	color: #E0E0E0;
+	text-decoration: none;
+}
 @media
