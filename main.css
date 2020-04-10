@@ -30,4 +30,8 @@ th, td, tr	{
 	height: 20%;
 }
 
+a:link	{
+	color: #FFFFFF;
+	text-decoration: none;
+}
 @media
