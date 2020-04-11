@@ -33,6 +33,7 @@ th, td, tr	{
 a:link	{
 	color: #FFFFFF;
 	text-decoration: none;
+	outline: none;
 }
 
 a:visited	{
